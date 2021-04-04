@@ -1,0 +1,95 @@
+
+/* General */
+
+body{
+    font-family: banschrift;
+    background: white;
+    color: #5a5a5a;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.color-white a{
+    color: #f1f1f1;
+    font-size: 1.2em;
+}
+
+.color-white a:hover{
+    color: #ffffff;
+}
+
+.color-blue{
+    color: #07A8E1;
+}
+
+.color-blue a{
+    color: #07A8E1;
+}
+
+.color-blue a:hover{
+    color: #07A8E1;
+}
+
+.color-blue a:active{
+    color: #07A8E1;
+    background-color: #f1f1f1;
+}
+
+/* Navbar */
+
+nav img{
+    max-height: 2.5em;
+}
+
+.background-blue{
+    background-color: #07A8E1;
+}
+
+.nav-position{
+    margin-left: 5%;
+}
+
+.logo-position{
+    margin-left: 5%;
+}
+
+.navitem-position{
+    margin-right: 5%;
+}
+
+/* Presentation */
+
+.show-icon{
+    font-size: 62px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0.5em;
+    margin-top: 0.8em;
+    color: #07A8E1;
+}
+
+.carousel-caption{
+    margin-bottom: 2em;
+    color: white;
+    background-color: hsla(196, 94%, 45%, 0.8);
+    border-radius: 40px;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+.carousel-caption h5{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.carousel-caption p{
+    font-size: 30px;
+}
+
+

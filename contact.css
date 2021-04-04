@@ -1,0 +1,66 @@
+.informatii-contact{
+    margin-top: 60px;
+}
+
+.space{
+    margin-left: 40px;
+}
+
+.form{
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    padding: 20px;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border-radius: 6px;
+}
+
+.card input {
+    margin-top: 10px;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #07A8E1;
+    border-color: #07A8E1;
+}
+
+.btn-success:hover {
+    color: #fff;
+    background-color: #07A8E1;
+    border-color: #07A8E1;
+}
+
+.btn-success.focus,
+.btn-success:focus {
+    box-shadow: 0 0 0 0.2rem rgb(255, 255, 255);
+}
+
+.btn-success:not(:disabled):not(.disabled):active,
+.show>.btn-success.dropdown-toggle {
+    color: #fff;
+    background-color: #07A8E1;
+    border-color: #07A8E1;
+}
+
+.form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #07A8E1;
+    outline: 0;
+    box-shadow: 0 0 0 1px rgb(255, 255, 255) !important
+}
+
+.tel{
+    font-weight: bold;
+    font-size: 18px;
+    
+}

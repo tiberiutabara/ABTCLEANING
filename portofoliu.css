@@ -1,0 +1,21 @@
+.gal-heading{
+    margin-top: 75px;
+}
+
+.gallery{
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+
+.item{
+    margin-bottom: 30px;
+    transition: .5s ease-in-out;
+}
+
+.item:hover{
+    filter: brightness(80%);
+}
+
+.item img{
+    border-radius: 5px;
+}

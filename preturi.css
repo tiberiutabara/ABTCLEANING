@@ -1,0 +1,11 @@
+
+@media (max-width: 768px) { 
+    h1.display-4{
+        margin-top: 32px;
+    }
+
+    .card{
+        margin-bottom: 100px !important;
+    }
+
+}
