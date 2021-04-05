@@ -1,5 +1,12 @@
 .informatii-contact{
     margin-top: 60px;
+    font-size: 16px;
+    color: #495057;
+}
+
+.tel{
+    font-weight: bold;
+    font-size: 18px;
 }
 
 .space{
@@ -57,10 +64,4 @@
     border-color: #07A8E1;
     outline: 0;
     box-shadow: 0 0 0 1px rgb(255, 255, 255) !important
-}
-
-.tel{
-    font-weight: bold;
-    font-size: 18px;
-    
 }
