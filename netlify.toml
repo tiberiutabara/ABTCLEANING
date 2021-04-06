@@ -1,5 +1,0 @@
-[[redirects]]
-  from = “https://blog.example.com/*”
-  to = “https://example.com/blog/:splat”
-  status = 200
-  force = true
