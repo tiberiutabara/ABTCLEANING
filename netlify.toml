@@ -1,4 +1,5 @@
 [[redirects]]
-  from = “http://www.abtcleaning.ro/*”
-  to = “https://abtcleaning.netlify.app/”
+  from = “https://blog.example.com/*”
+  to = “https://example.com/blog/:splat”
   status = 200
+  force = true
