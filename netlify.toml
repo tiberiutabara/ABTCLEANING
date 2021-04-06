@@ -1,0 +1,4 @@
+[[redirects]]
+  from = “http://www.abtcleaning.ro/*”
+  to = “https://abtcleaning.netlify.app/”
+  status = 200
